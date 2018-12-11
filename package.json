@@ -6,8 +6,8 @@
     "lodash": "^4.17.10",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "react-scripts": "1.0.17",
-    "styled-components": "^2.2.3"
+    "react-scripts": "2.1.1",
+    "styled-components": "^4.1.2"
   },
   "babel": {
     "presets": [
@@ -54,7 +54,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^21.2.1",
+    "jest": "^23.6.0",
     "react-test-renderer": "^16.1.1"
   }
 }
